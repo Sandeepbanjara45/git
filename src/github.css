@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cimg{
+    padding: 10px;
+    margin: 20px;
+    background-color: rgb(189, 210, 211);
+    box-shadow: 5px 10px rgb(18, 18, 18,0.2);
+}
+.li{
+    background-color: red;
+}
+.b{
+    background-color: aliceblue;
+}
